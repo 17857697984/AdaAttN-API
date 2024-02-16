@@ -1,5 +1,5 @@
 # AdaAttN-api-
-本项目争对AdaAttN模型，基于spring boot设计开发了调用该模型的api，供大家学习参考。
+本项目针对AdaAttN模型，基于spring boot设计开发了调用该模型的api，供大家学习参考。
 # api设计步骤
 ## 1.将需要进行风格变换的图片移动到指定的工作目录当中
 ## 2.运行cmd命令使用模型进行风格迁移
