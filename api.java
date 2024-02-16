@@ -23,7 +23,7 @@ public String AdaAttnApi(String imageId,String style){
             int exitCode = process.waitFor();
 
             if (exitCode == 0) {
-                System.out.println("External command executed successfully.");
+                System.out.println("External command executed successfully");
             } else {
                 System.out.println("External command execution failed with exit code: " + exitCode);
             }
